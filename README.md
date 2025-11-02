@@ -10,3 +10,12 @@ I'm a data analyst at the UK's #1 provider of public sector early payment progra
 - Exploring real-world applications of advanced statistical modeling
 
 #### Let's connect on [LinkedIn](https://www.linkedin.com/in/achilleas-kouventaras/)
+
+## My Tech Stack 
+
+### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=r,python&theme=light&perline=15)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,git&theme=light&perline=15)](https://skillicons.dev)
