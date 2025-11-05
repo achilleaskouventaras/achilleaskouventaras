@@ -18,4 +18,4 @@ I'm a data analyst at the UK's #1 provider of public sector early payment progra
 [![My Skills](https://skillicons.dev/icons?i=r,python&theme=light&perline=15)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,git&theme=light&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,postman,github,git&theme=light&perline=15)](https://skillicons.dev)
